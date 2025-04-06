@@ -1,8 +1,8 @@
 const { config: baseConfig } = require('./base.conf.js');
 
 const scraperConfig = {
-  user: process.env.BROWSERSTACK_USERNAME || 'mohitsaini_4xtuvb',
-  key: process.env.BROWSERSTACK_ACCESS_KEY || '1ubwbjJgSaBRprs2AGGT',
+  user: process.env.BROWSERSTACK_USERNAME || 'mohitsaini_iMXbs4',
+  key: process.env.BROWSERSTACK_ACCESS_KEY || '4HyMxvu7L7S6J6wrWvX2',
   hostname: 'hub.browserstack.com',
   maxInstances: 5,
   commonCapabilities: {
